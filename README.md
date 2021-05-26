@@ -67,17 +67,17 @@ El programa mostrará una graficación simple dónde se muestra el punto de impa
 
 ## Dependencias
 
-Para instalar las dependencias basta con ejecutar:
+Para instalar las dependencias:
 
 `$ pip install -r requirements.txt`
 
 ## Ejecución
 
-Para ejecutar el programa basta con usar:
+Para ejecutar el programa:
 
 `$ python main.py`
 
-Deberá introducir los siguientes datos de entrada:
+Deberán introducir los siguientes datos de entrada:
 
 - Coordenada x del punto de impacto: Un número real cualquiera.
 - Coordenada y del punto de impacto: Un número real cualquiera.
@@ -85,7 +85,7 @@ Deberá introducir los siguientes datos de entrada:
 
 ## Créditos
 
-Este programa fue realizado para la materia Análisis Vectorial de la Escuela Superior de Cómputo del Instituto Politécnico Nacional impartida por el Dr. Dárwin Gutiérrez Mejía.
+Este programa fué realizado para la materia Análisis Vectorial de la Escuela Superior de Cómputo del Instituto Politécnico Nacional impartida por el Dr. Dárwin Gutiérrez Mejía.
 
 Alumno: *Humberto Alejandro Ortega Alcocer*
 
